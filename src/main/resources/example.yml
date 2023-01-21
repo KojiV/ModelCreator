@@ -1,0 +1,28 @@
+identifier: 'EXAMPLE'
+stands:
+  LEFT:
+    equipment:
+      helmet:
+        type: LEATHER_HELMET
+        color: null
+        glow: false
+        texture: null
+      chestplate:
+        type: null
+        color: null
+        glow: false
+        texture: null
+      leggings:
+        type: null
+        color: null
+        glow: false
+        texture: null
+      boots:
+        type: null
+        color: null
+        glow: false
+        texture: null
+    offsets:
+      x: 0.0
+      y: 0.0
+    small: false

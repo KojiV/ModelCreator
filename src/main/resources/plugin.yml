@@ -1,0 +1,6 @@
+name: ModelCreator
+version: '${project.version}'
+main: io.github.kojiv.modelcreator.Modelcreator
+prefix: ModelCreator
+authors: [ Koji ]
+description: A tool to easier create armor stand model with click functions
